@@ -1,0 +1,34 @@
+The following data structure is must know:
+  ☐ Linked List - Single and Doubly
+  ☐ Stack
+  ☐ Queues
+  ☐ Binary Search Trees or general Binary Tree
+  ☐ Heaps
+  ☐ Basic Graph Traversal and Shortest Path
+  ☐ Hashing
+
+Following Algorithms / Tricks / Topics may also be important :
+  ☐ Memory Management
+  ☐ Basic Co-ordinate geometry - Manhattan Distance, Closest Point Pair
+  ☐ Divide and Conquer
+  ☐ Greedy
+  ☐ Dynamic Programming - Extremely important
+  ☐ Probability and basic Number Theory
+  ☐ Sorting and Searching
+
+Following data structures may be asked. I would say that their probability of being asked is between 50 to 75% :
+   ☐ Tries
+   ☐ Advance Graphs like flow and min-cut etc.
+   ☐ Bit Manipulation
+
+Following topics is important for Knowledge / Experience based questions :
+  ☐ OS - Threads, Processes and Locks using Mutex, Semaphores (Operating systems Archives - GeeksforGeeks)
+  ☐ Scalability Issues, RPCs, Rate limiter, etc.
+  ☐ OOP Concepts
+  ☐ Databases - SQL, NoSQL, Writing simple Queries, Transactions, ACID
+  ☐ Linux Commands - sed, grep, ps, etc.
+
+Following have very low probability of being asked ( < 25%) :
+  ☐ Segment Trees / Binary Indexed Trees
+  ☐ AVL Trees
+  ☐ B+ Trees
